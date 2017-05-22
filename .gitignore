@@ -1,0 +1,14 @@
+# compiled app
+*.app
+
+# Resources
+*.mov
+*.mp4
+*.png
+*.jpg
+
+# OSX
+.DS_Store
+
+# Xcode
+xcuserdata/
